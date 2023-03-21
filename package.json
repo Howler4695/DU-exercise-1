@@ -2,10 +2,10 @@
   "name": "du-exercise-1",
   "version": "1.0.0",
   "description": "DU, WOOOOOOOOOOO learning woooooo!",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon ./app.js localhost",
+    "start": "node index.js",
+    "dev": "nodemon ./index.js localhost",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "A1C Howle",

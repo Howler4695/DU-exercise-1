@@ -2,14 +2,18 @@
   "name": "du-exercise-1",
   "version": "1.0.0",
   "description": "DU, WOOOOOOOOOOO learning woooooo!",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
+    "dev": "nodemon ./app.js localhost",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "A1C Howle",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
   }
 }

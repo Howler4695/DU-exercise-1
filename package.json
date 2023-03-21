@@ -1,0 +1,11 @@
+{
+  "name": "du-exercise-1",
+  "version": "1.0.0",
+  "description": "DU, WOOOOOOOOOOO learning woooooo!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
